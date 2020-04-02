@@ -1,1 +1,1 @@
-reactNative 项目搭建和简单使用
+react搭建和简单使用
